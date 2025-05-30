@@ -52,3 +52,4 @@ product-assistant/
 ├── requirements.txt                # Python dependencies
 ├── .env                            # Environment file (not committed)
 └── README.md                       # This file
+![1443DC8B-6C28-4CB8-85C3-3E2EE6A6D6C7](https://github.com/user-attachments/assets/da4ad298-caff-41df-ab91-01c1dae053c3)
